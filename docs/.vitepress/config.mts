@@ -45,7 +45,8 @@ export default defineConfig({
           collapsed: false,
           base: '/contribute',
           items: [
-            { text: "如何写markdown", link: "/writeMarkdown" }
+            { text: "如何写markdown", link: "/writeMarkdown" },
+            { text: "如何上传你的文章", link: "/upload" }
           ]
         }
       ]
