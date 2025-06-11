@@ -1,8 +1,0 @@
-{
-    "order": ["quickstart", "overworld", "nether"],
-    "names": {
-      "quickstart": "快速开始",
-      "overworld": "主世界部分1",
-      "nether": "下界部分"
-    }
-  }

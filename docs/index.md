@@ -9,12 +9,12 @@ hero:
   actions:
     - theme: brand
       text: 速通教程
-      link: /guide/quickstart/index
+      link: /guide/quickstart/BasciRules
 
 features:
   - title: 新手入门
     details: 新手不知道如何入门？点此开始你的速通之旅！
-    link: /guide/quickstart
+    link: /guide/quickstart/BasicRules
     linkText: 了解更多
   - title: 资源下载
     details: 模组找不到？这里有资源合集！
@@ -22,7 +22,7 @@ features:
     linkText: 了解更多
   - title: 贡献知识
     details: 想帮助完善Wiki？那就来这儿看看！
-    link: /contribute/writeMarkdown
+    link: /contribute/WriteMarkdown
     linkText: 了解更多
 ---
 
