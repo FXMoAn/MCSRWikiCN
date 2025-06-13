@@ -92,16 +92,19 @@ export default defineConfig({
           collapsed: false,
           base: '/contribute',
           items: [
-            { text: "如何写markdown", link: "/WriteMarkdown" },
-            { text: "如何上传你的文章", link: "/Upload" }
+            { text: "上传格式和命名规范", link: "/Format" },
+            { text: "如何写Markdown", link: "/WriteMarkdown" },
+            { text: "如何上传你的文章", link: "/Upload" },
+            
           ]
         }
       ]
     },
     // 社交媒体链接
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' },
-      { icon: 'bilibili', link: 'https://space.bilibili.com/420966870' }
+      { icon: 'github', link: 'https://github.com/FXMoAn/MCSRWikiCN' },
+      { icon: 'bilibili', link: 'https://space.bilibili.com/420966870' },
+      { icon: 'qq', link: 'https://qm.qq.com/q/MGNZB5nF6'}
     ],
     // 启用搜索功能
     search: {
