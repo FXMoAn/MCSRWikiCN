@@ -13,7 +13,7 @@ export default defineConfig({
       { text: '新手入门', link: '/guide/quickstart/BasicRules' },
       { text: '进阶技巧', link: '/advanced/rules/SubmitRules' },
       { text: '资源中心', link: '/resources/index' },
-      { text: '贡献', link: '/contribute/WriteMarkdown' }
+      { text: '贡献', link: '/contribute/Format' }
     ],
 
     sidebar: {

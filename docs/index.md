@@ -22,7 +22,7 @@ features:
     linkText: 了解更多
   - title: 贡献知识
     details: 想帮助完善Wiki？那就来这儿看看！
-    link: /contribute/WriteMarkdown
+    link: /contribute/Format
     linkText: 了解更多
 ---
 
