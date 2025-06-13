@@ -129,5 +129,6 @@ export default defineConfig({
       text: '编辑此页面'
     }
   },
-  lastUpdated: true
+  lastUpdated: true,
+  cleanUrls: true
 })
