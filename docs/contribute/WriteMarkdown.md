@@ -54,7 +54,7 @@ md符号和文字之间注意空格
 ![](./img/catalogue.png)
 ````
 
-![](./img/catalogue.png)
+![](./img/catalogue.png)  
 上传内容时，请把图片上传至当前目录的img文件夹里
 
 ## 表格
