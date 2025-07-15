@@ -12,7 +12,7 @@ export default defineConfig({
       { text: "主页", link: "/" },
       { text: "新手入门", link: "/guide/quickstart/BasicRules" },
       { text: "进阶技巧", link: "/advanced/rules/SubmitRules" },
-      { text: "资源中心", link: "/resources/index" },
+      { text: "资源中心", link: "/resources/Weblink" },
       { text: "贡献", link: "/contribute/Format" },
     ],
 
@@ -86,7 +86,7 @@ export default defineConfig({
           text: "资源大全",
           collapsed: false,
           base: "/resources",
-          items: [{ text: "资源", link: "/" }],
+          items: [{ text: "网页资源", link: "/WebLink" }],
         },
       ],
       // 以下为贡献区域区域侧边栏
