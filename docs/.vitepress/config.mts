@@ -11,8 +11,8 @@ export default defineConfig({
     nav: [
       { text: "主页", link: "/" },
       { text: "新手入门", link: "/guide/quickstart/BasicRules" },
-      { text: "进阶技巧", link: "/advanced/rules/SubmitRules" },
-      { text: "资源中心", link: "/resources/Weblink" },
+      { text: "参考资料", link: "/advanced/rules/SubmitRules" },
+      { text: "资源中心", link: "/resources/WebLink" },
       { text: "贡献", link: "/contribute/Format" },
     ],
 
@@ -64,6 +64,7 @@ export default defineConfig({
           base: "/advanced/rules",
           items: [
             { text: "如何提交成绩", link: "/SubmitRules" },
+            { text: "国内排行榜使用手册", link: "/CN-LDB" },
             { text: "RSG合法模组列表", link: "/LegalMods" },
           ],
         },
