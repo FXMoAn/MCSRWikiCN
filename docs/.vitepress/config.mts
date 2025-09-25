@@ -64,8 +64,16 @@ export default defineConfig({
           base: "/advanced/rules",
           items: [
             { text: "如何提交成绩", link: "/SubmitRules" },
-            { text: "国内排行榜使用手册", link: "/CN-LDB" },
             { text: "RSG合法模组列表", link: "/LegalMods" },
+          ],
+        },
+        {
+          text: "国内排行榜",
+          collapsed: false,
+          base: "/advanced/cn-ldb",
+          items: [
+            { text: "国内排行榜使用手册", link: "/CN-LDB" },
+            { text: "隐私政策", link: "/PrivacyPolicy" },
           ],
         },
         {
