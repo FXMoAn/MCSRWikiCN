@@ -95,7 +95,10 @@ export default defineConfig({
           text: "资源大全",
           collapsed: false,
           base: "/resources",
-          items: [{ text: "网页资源", link: "/WebLink" }],
+          items: [
+            { text: "网页资源", link: "/WebLink" },
+            { text: "战利品表", link: "/LootTable" },
+          ],
         },
       ],
       // 以下为贡献区域区域侧边栏
