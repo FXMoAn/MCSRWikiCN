@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: 速通教程
-      link: /guide/quickstart/BasciRules
+      link: /guide/quickstart/BasicRules
 
 features:
   - title: 新手入门
@@ -25,4 +25,3 @@ features:
     link: /contribute/Format
     linkText: 了解更多
 ---
-
